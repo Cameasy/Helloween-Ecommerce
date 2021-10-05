@@ -1,7 +1,6 @@
 # Halloween-Ecommerce 🎃👻
 
-<img src="./media/print.png" alt="gif teste, mostrando na prática">
-<h2 align="center"><a heref=" https://cameasy.github.io/Helloween-Ecommerce/" target="_blank">Teste Aqui!</a></h2>
+<a heref=" https://cameasy.github.io/Helloween-Ecommerce/" target="_blank"><img src="./media/print.png" alt="print mostrando na prática"></a>
 <br>
 <p align="center">
  <a href="#objetivo">Objetivo</a> • 
