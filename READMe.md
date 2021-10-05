@@ -2,7 +2,7 @@
 
 <img src="./media/print.png" alt="print mostrando na prática">
 
-<a heref=" https://cameasy.github.io/Helloween-Ecommerce/" target="_blank" align="center"><h2>Teste Aqui!</h2></a>
+<a heref=" https://cameasy.github.io/Helloween-Ecommerce/" target="_blank" align="center">Teste Aqui!</a>
 <br>
 <p align="center">
  <a href="#objetivo">Objetivo</a> • 
