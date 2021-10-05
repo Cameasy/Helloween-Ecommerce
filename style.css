@@ -313,7 +313,7 @@ section{
 }
 
 .about{
-    background: url(../image/about-bt.jpg) no-repeat;
+    background: url(./image/about-bt.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -552,26 +552,6 @@ section{
     color:var(--main-color);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* media queries  */
 
 @media (max-width:991px){
 
