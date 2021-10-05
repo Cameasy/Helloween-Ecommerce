@@ -21,5 +21,3 @@ Projeto realizado com CSS3, HTML5 e JavaScript (alguns aidionais como jquery e A
 <p>
 👻 Camila C. R. Santos 🎃 - Frontend Developer
 </p>
-<br><br>
-<img src="https://img.shields.io/github/stars/Cameasy/Halloween-Ecommerce"><img src="https://img.shields.io/github/watchers/Cameasy/Halloween-Ecommerce">
