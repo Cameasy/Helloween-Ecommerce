@@ -21,4 +21,5 @@ Projeto realizado com CSS3, HTML5 e JavaScript (alguns aidionais como jquery e A
 <h2 id="autora">Autora:</h2>
 <p>
 👻 Camila C. R. Santos 🎃 - Frontend Developer
+👻 Beatriz F. B. Carneiro 🎃
 </p>
